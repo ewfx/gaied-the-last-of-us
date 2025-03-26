@@ -1,0 +1,143 @@
+
+Request types and sub request types:
+
+An Adjustment request in bank loan servicing typically refers to a formal request made by a borrower to modify certain aspects of their loan agreement. This could include following sub request:
+
+1. Payment Adjustments:
+   - Requesting changes to the repayment schedule, such as extending the loan tenure or reducing the EMI amount.
+   - Adjusting payments due to financial hardships or changes in income.
+
+2. Interest Rate Adjustments:
+   - Switching from a floating interest rate to a fixed rate or vice versa.
+   - Requesting a rate reset based on market conditions or RBI guidelines.
+
+3. Principal Adjustments:
+   - Making part-prepayments or requesting adjustments to the outstanding principal amount.
+
+4. Other Modifications:
+   - Updating contact details, address, or banking information associated with the loan account.
+   - Requesting statements or certificates related to the loan.
+
+These requests are usually processed by the bank's loan servicing department, and borrowers may need to provide supporting documentation or meet specific criteria for approval.
+
+In the context of U.S. bank loan servicing, an AU transfer request generally refers to the transfer of a loan account from one servicing entity to another. This process is common in the mortgage and loan servicing industry and involves the following key aspects:
+
+1. Servicer Transition:
+   - The loan is transferred to a new servicer who will handle all future payments, customer service, and account management.
+   - Borrowers are notified through a "Goodbye Letter" from the current servicer and a "Welcome Letter" from the new servicer.
+
+2. Loan Terms Stay the Same:
+   - The transfer does not alter the loan's terms, such as interest rate, repayment schedule, or outstanding balance.
+   - Borrowers' rights and obligations remain unchanged.
+
+3. Payment Adjustments:
+   - Borrowers may need to update their payment methods (e.g., autopay settings) to reflect the new servicer's details.
+   - Any payments made during the transition period are typically forwarded to the new servicer.
+
+4. Escrow Account Management:
+   - If the loan includes an escrow account for taxes and insurance, the new servicer assumes responsibility for its management.
+   - Pending disbursements are usually handled by the previous servicer until the transfer is complete.
+
+This process ensures continuity in servicing while maintaining the borrower's original loan terms.
+
+A Closing Notice request is a document provided to borrowers at the conclusion of the loan process. It typically includes:
+- A summary of the loan terms, such as interest rates, repayment schedules, and fees.
+- Final disclosures required by law, ensuring transparency and compliance with regulations.
+- Confirmation of the loan's closing, including any conditions or next steps for the borrower.
+
+A closing notice request can be of the following sub request types :
+1.Reallocation Fees
+These are fees charged when funds or payments are reallocated within a loan account. For example:
+- If a borrower requests to reallocate payments from one part of the loan (e.g., interest) to another (e.g., principal).
+- When adjustments are made to the loan structure, such as redistributing funds between different accounts or purposes.
+
+2.Amendment Fees
+Amendment fees are charged when a borrower requests changes to the original loan agreement. Examples include:
+- Modifying the loan terms, such as extending the repayment period or changing the interest rate.
+- Adding or removing borrowers or guarantors from the loan agreement.
+- Adjusting collateral requirements or other contractual terms.
+
+3.Reallocation Principal
+This refers to the reallocation of the principal amount of a loan. It might occur in scenarios like:
+- Applying a lump-sum payment to reduce the principal balance.
+- Adjusting the allocation of principal payments across multiple loans or accounts.
+
+
+A Commitment Change request refers to adjustments made to the loan commitment—essentially the agreed amount that the lender commits to providing to the borrower.
+This typically occurs in the context of syndicated loans or revolving credit facilities. Following are the types of sub requests under this request type
+
+1. Cashless Roll
+- A Cashless Roll occurs when the outstanding loan amount is transitioned into a new loan or extended facility without requiring the borrower to pay off the existing loan in cash.
+- Instead, the loan's principal balance is "rolled over" into the amended or new facility seamlessly. This process avoids cash transactions and simplifies refinancing or restructuring of loans.
+
+2.Decrease
+- A Decrease refers to reducing the total loan commitment amount.
+- For instance, if the borrower no longer needs the full loan amount or if the lender decides to lower the commitment based on credit or market evaluations, the commitment is adjusted accordingly.
+
+3.Increase
+- An Increase represents an expansion of the loan commitment amount.
+- This could be initiated if the borrower needs additional funds and the lender agrees to raise the commitment limit.
+- An increase typically involves revisiting loan terms and ensuring the borrower meets eligibility criteria for the additional amount.
+
+
+
+A Fee Payment request refers to the charges or fees that borrowers are required to pay as part of their loan agreement. These fees are typically associated with the administration, maintenance, or specific services related to the loan.
+A Fee Payment request can be of the following sub request types :
+
+1. Ongoing Fee
+- This is a recurring fee charged periodically (e.g., monthly, quarterly, or annually) for maintaining and servicing the loan.
+- It covers administrative tasks such as payment tracking, account updates, and customer support.
+- Ongoing fees are common in loans with long durations, ensuring the lender recovers the costs of managing the loan over time.
+
+2. Letter of Credit Fee
+- This fee is associated with issuing or managing a Letter of Credit (LC), which is a financial instrument used in trade finance.
+- The fee typically includes:
+  - Issuance Charges: For creating the LC.
+  - Usance Charges: Based on the duration of the LC.
+  - Amendment Charges: For making changes to the LC terms.
+  - Confirmation Charges: If the LC is confirmed by another bank.
+- These fees ensure that the bank is compensated for the risk and administrative work involved in facilitating trade transactions.
+
+
+
+
+A Money Movement-Inbound request refers to funds received by the lender from the borrower. These inbound payments are typically applied to fulfill loan obligations, and they have the following sub request types:
+
+1.Principal
+- This is the portion of the payment applied directly to reducing the original loan amount (the outstanding principal balance).
+- Paying more toward the principal reduces the total loan balance faster and may decrease the overall interest cost.
+
+2.Interest
+- Payments in this category cover the cost of borrowing money, which is calculated as a percentage of the outstanding principal.
+- This portion does not reduce the principal balance but compensates the lender for providing the loan.
+
+3.Principal + Interest
+- Most loan payments (e.g., monthly installments) fall into this category, where a portion of the payment is applied to the principal, and the rest covers interest.
+- These combined payments ensure both repayment of the loan and compensation for borrowing.
+
+4.Principal + Interest + Fee
+- This includes payments that cover principal, interest, and additional fees charged by the lender.
+- Fees may include late payment charges, loan servicing fees, or any administrative costs.
+
+These categories help lenders allocate incoming payments correctly and ensure compliance with the loan agreement. Borrowers often receive detailed statements showing how their payments are divided into these components. 
+
+
+A Money Movement-Outbound request refers to the transfer of funds from the lender or servicer to external parties. These transactions are typically related to disbursements, refunds, or payments associated with the loan.
+
+A Money Movement-Outbound has following sub request types
+
+1.Timebound
+- This refers to outbound payments that are scheduled or required to occur within a specific timeframe.
+- Examples include:
+  - Disbursement of loan proceeds to the borrower on a pre-agreed date.
+  - Payments to third parties, such as property taxes or insurance premiums, from an escrow account.
+  - Timely refunds or adjustments to borrowers as mandated by regulations or agreements.
+
+2.Foreign Currency
+- This involves outbound payments made in a currency other than U.S. dollars.
+- Common scenarios include:
+  - Loans disbursed to international borrowers or entities requiring payments in foreign currencies.
+  - Cross-border transactions where the lender or servicer must convert funds into the recipient's local currency.
+- These transactions often involve additional considerations, such as exchange rates, currency conversion fees, and compliance with international banking regulations.
+
+

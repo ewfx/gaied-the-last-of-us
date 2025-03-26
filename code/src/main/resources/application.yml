@@ -1,0 +1,14 @@
+server.port: 16663
+spring.ai.ollama:
+  init.pull-model-strategy: when_missing
+  init.timeout: 10m
+  base-url: http://localhost:11434
+  embedding:
+    enabled: true
+    options.model: nomic-embed-text
+  chat:
+    enabled: true
+    options:
+      model: deepseek-r1:8b
+      format: json
+
